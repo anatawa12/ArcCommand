@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "arc_command",
+    "name": "arc command",
+    "description": "add a command '/arc'",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["anatawa12"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
