@@ -35,7 +35,7 @@ adds `/arc` command.
 :  line on arc
 
 赤羊毛\
-:  マーカーを置く場所を示します。1/2/4つの中心でジョイントするように置くときれいな円になります\
+:  マーカーを置く場所を示します。1/2/4つの中心でつながるように2つのマーカーを置くとときれいな円になります\
 :  the place to put marker. if you put two markers at the center of 1/2/4 blocks, the arc will be beautiful.
 
 青羊毛\
