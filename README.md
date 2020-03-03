@@ -42,6 +42,9 @@ adds `/arc` command.
 :  制御点/ハンドルを置く場所を示します。1/2/4つの中心に置くときれいな円になります\
 :  the place to put handle/control point. if you put it at the center of 1/2/4 blocks, the arc will be beautiful.
 
+![4-red](./four-red.png)
+![2-red](./two-red.png)
+
 # 前提 dependencies
 
 minecraft forge 1.12.2-14.23.x.x
